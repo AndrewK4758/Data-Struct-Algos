@@ -2,7 +2,6 @@
 
  list of towers
 
- * 
   - Each tower has a list of Disks
 
   - Each move must only move one disk at a time
